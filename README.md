@@ -1,6 +1,6 @@
 # Python-Flask--File-upload
 
-This is flask based web application to upload the image. The uploaded images are saved on server side.
+This is flask based web application to upload image. The uploaded images are saved on server side.
 
 Run python fileupload.py
 After running the program click on url and upload image.
